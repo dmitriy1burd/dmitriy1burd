@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi I am Dmitriy
+I am data scientist who transitioned into ML from a background in energy, and I successfully apply systems thinking and analytical reasoning to tackle a wide range of challenges. Having worked in a large company with strict compliance standards and numerous technical requirements, I have developed the ability to strike a balance between business objectives, technical constraints, and stakeholder (or contactor) needs. I translate these into robust ML pipelines without compromising on quality or delivery timelines.
+
+## Projects
+| Project name | Description | Tech stack | Link |
+|:-----------------|:---------|:-----------|:------:|
+| steel temperature prediction | A metallurgical plant requires the development of a machine learning model to predict the final alloy temperature based on process data, with the ultimate goal of optimizing electricity consumption. | ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white) ![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![SQL](https://img.shields.io/badge/PostgreSQL-green?style=for-the-badge) ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![Torchvision](https://img.shields.io/badge/Torchvision-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![Phik](https://img.shields.io/badge/Phik-00599C?style=for-the-badge&logo=python&logoColor=white) ![Optuna](https://img.shields.io/badge/Optuna-2C6FBB?style=for-the-badge&logo=optuna&logoColor=white) ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white) | [ссылка на проект](dmitriy1burd/steel_temperature_prediction) |
+
 
 <!--
 **dmitriy1burd/dmitriy1burd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
